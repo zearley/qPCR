@@ -17,5 +17,5 @@ Set group 2: Celiac
 Set group 2 start: 12
 Set group 2 end: 22
 
-The output is a dataframe of the group name and relative expression values and a boxplot with indiviual data points.
+The output is a dataframe of the group name and relative expression values and a boxplot with individual data points.
 - Zach
